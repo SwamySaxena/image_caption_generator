@@ -19,10 +19,10 @@ During inference (when generating captions for a new image), the LSTM is fed the
 
 ---
 ## Model
-![img1](https://github.com/SwamySaxena/image_caption_generator/blob/master/image1.jpg)
+![img1](https://github.com/SwamySaxena/image_caption_generator/blob/main/image1.jpg)
 
 ---
 ## Sample Output
-![img2](https://github.com/SwamySaxena/image_caption_generator/blob/master/image2.jpg)
+![img2](https://github.com/SwamySaxena/image_caption_generator/blob/main/image2.jpg)
 
 ---
