@@ -23,6 +23,6 @@ During inference (when generating captions for a new image), the LSTM is fed the
 
 ---
 ## Sample Output
-![img2](https://github.com/SwamySaxena/image_caption_generator/blob/main/image2.jpg)
-
+![img2](https://github.com/SwamySaxena/image_caption_generator/blob/main/dog.jpg)
+![img3](https://github.com/SwamySaxena/image_caption_generator/blob/main/image2.jpeg)
 ---
